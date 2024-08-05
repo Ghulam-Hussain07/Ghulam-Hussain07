@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ghulam-Hussain07
 - 👀 I’m interested in . web devlopment social media marketing .
 - 🌱 I’m currently learning .HTML CSS JAVASCRIPT SHOPIFY LARAVELL PYTHON 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me . through gmail: ghrind@gmail.com
+- 💞️ I’m looking to collaborate on .Frontend projects
+- 📫 How to reach me . through gmail: ghrind7@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
